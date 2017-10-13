@@ -1,0 +1,7 @@
+{
+  "name": "package-b",
+  "description": "package-b",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true
+}
